@@ -60,7 +60,8 @@
         android:layout_marginHorizontal="50dp"
         android:background="@drawable/login_btn"
         android:text="@string/login_loginbtn_btn"
-        android:textStyle="bold"/>
+        android:textStyle="bold"
+        android:textSize="15sp"/>
 
     <TextView
         android:layout_width="wrap_content"
